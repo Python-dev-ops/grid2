@@ -10,8 +10,9 @@ body {
 header {
   /*background: lightpink;*/
   padding: 2rem;
-  height: 35vh;
+  height: 45vh;
   overflow: hidden;
+  align-items: center;
 }
 
 main {
@@ -37,7 +38,7 @@ h6 {
   flex-direction: row;
   flex-flow: row wrap;
   align-items: center;
-  /*justify-content: space-between;*/
+  justify-content: space-between;
 }
 input[type="radio"] {
     display:none;
