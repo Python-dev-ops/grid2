@@ -10,7 +10,7 @@ body {
 header {
   /*background: lightpink;*/
   padding: 2rem;
-  height: 45vh;
+  height: 50vh;
   overflow: hidden;
   align-items: center;
 }
@@ -20,12 +20,12 @@ main {
   padding: 10px;
 }
 
-footer {
-  /*background: wheat;*/
+/*footer {
+  background: wheat;
   padding: 2rem;
   text-align: center;
 }
-
+*/
 body {
   font-family: system-ui, sans-serif;
 }
